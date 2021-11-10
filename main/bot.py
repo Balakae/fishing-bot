@@ -189,3 +189,5 @@ if __name__ == "__main__":
     fisher = Fisher()
     time.sleep(5)
     fisher.Sell_Fish()
+    pip install -r requirements.txt
+    
